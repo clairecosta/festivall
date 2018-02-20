@@ -1,0 +1,42 @@
+/*style.css*/
+#banner{
+  text-align: center;
+  background-image: url("images/concert.jpg");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+  }
+
+ 
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+
+.image {
+	height: 100px;
+	width: auto;
+}
+
+.card1{
+	text-align: center;
+	padding : 15px;
+}
+
+.bouton {margin: 15px 
+}
+
+.cart { align-items: 150px
+
+
+}
